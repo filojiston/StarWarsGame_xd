@@ -1,8 +1,6 @@
 # StarWarsGame_xd
   a star wars theme game - the main purpose is applying the shortest path algorithms
-  
   made for school assignment.
-  
   coded with cpp and SFML in visual studio.
   
   you select a player (master yoda or luke skywalker) and game will start. your goal is reach the cell right next to golden cup before your enemies catch you.
