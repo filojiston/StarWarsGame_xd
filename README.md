@@ -12,6 +12,6 @@
   * Kylo Ren -> he can walk 2 steps at once.
   * Stormtrooper -> regular enemy.
   
-  we're reading the enemy data from harita.txt, so in order to change the enemies, you must've change the harita.txt file.acro
+  we're reading the enemy data from harita.txt, so in order to change the enemies, you must've change the harita.txt file.
   
   for move across the map, use arrow keys.
