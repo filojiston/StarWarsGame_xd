@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\fonts">
+      <UniqueIdentifier>{570bbfd6-7800-4a0b-bbb3-9f70fb25bcdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\images">
+      <UniqueIdentifier>{49d3161a-41e6-4a77-bbd9-90c11738cd4f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Location.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DarthVader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KyloRen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stormtrooper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MasterYoda.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LukeSkywalker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StarWarsGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DarthVader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KyloRen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stormtrooper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MasterYoda.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LukeSkywalker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StarWarsGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="fonts\anonymous_pro.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+    <Font Include="fonts\arial.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\s31d\Downloads\lukeskywalker.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="C:\Users\s31d\Downloads\masteryoda.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\full_heart.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\half_heart.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\mStormTrooper.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\mKyloRen.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\mDarthVader.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\mLukeSkywalker.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\mYoda.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\cup.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\icon_down.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\icon_left.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\icon_right.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\icon_up.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\s31d\Downloads\Harita.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

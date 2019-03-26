@@ -1,0 +1,39 @@
+http://www.cs.rpi.edu/~slotag/classes/FA16/slides/lec22-matrix.pdf
+https://stackoverflow.com/questions/5149962/how-to-get-the-path-between-2-nodes-using-breadth-first-search?noredirect=1&lq=1
+https://medium.com/omarelgabrys-blog/path-finding-algorithms-f65a8902eb40
+https://www.coursera.org/lecture/algorithms-graphs-data-structures/bfs-and-shortest-paths-ZAaJA
+https://www.hackerrank.com/challenges/bfsshortreach/problem
+https://discuss.codechef.com/questions/99886/how-can-i-use-bfs-to-find-shortest-pathhow-to-apply-bfs-for-finding-shortest-path-between-2-nodes
+https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/
+https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/
+https://www.youtube.com/watch?v=oDqjPvD54Ss&index=4&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P
+*https://www.geeksforgeeks.org/shortest-distance-two-cells-matrix-grid/
+https://www.quora.com/How-can-I-actual-trace-the-shortest-path-using-Bfs-or-Dijktras
+https://stackoverflow.com/questions/8922060/how-to-trace-the-path-in-a-breadth-first-search
+https://www.geeksforgeeks.org/shortest-path-unweighted-graph/
+https://medium.freecodecamp.org/exploring-the-applications-and-limits-of-breadth-first-search-to-the-shortest-paths-in-a-weighted-1e7b28b3307
+https://crab.rutgers.edu/~guyk/BFS.pdf
+http://faculty.ycp.edu/~dbabcock/PastCourses/cs360/lectures/lecture16.html
+https://www.cs.fsu.edu/~burmeste/slideshow/chapter23/23-2.html
+https://www.youtube.com/watch?v=WvR9voi0y2I
+https://www.youtube.com/watch?v=QRq6p9s8NVg
+https://stackoverflow.com/questions/10053931/shortest-path-from-single-source-to-single-destination-in-a-graph
+https://www.geeksforgeeks.org/best-first-search-informed-search/
+https://www.redblobgames.com/pathfinding/tower-defense/
+https://www.youtube.com/watch?v=oDqjPvD54Ss&t=266s
+https://www.youtube.com/watch?v=KiCBXu4P-2Y
+https://gist.github.com/KodeSeeker/841e146633b0a77ee5b3
+http://yeilho.blogspot.com/2011/08/breadth-first-search.html
+https://github.com/yeilho/algorithms/blob/master/bridge.cc
+https://www.techiedelight.com/find-shortest-path-in-maze/
+https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/
+https://gist.github.com/douglas-vaz/5072998
+https://github.com/dcrystalj/bfs-path
+https://cs.stackexchange.com/questions/71538/how-to-backtrack-the-shortest-path-in-bfs-based-shortest-path-calculation
+https://www.quora.com/How-can-I-actual-trace-the-shortest-path-using-Bfs-or-Dijktras
+http://discuss.spoj.com/t/tracing-path-using-bfs/8476
+https://stackoverflow.com/questions/39150684/path-finding-using-dfs-and-bfs
+
+// for images, i just search on google images like arrow icon, heart icon, cup icon etc.
+/* * i mainly used this code for finding shortest path, and implemented my logic for tracing back the path.
+so, my code contains too much of the code in the link, but i've added my own logic to it, and i understood what it does.
